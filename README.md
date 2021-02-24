@@ -6,9 +6,9 @@ Aqui mostrarei a minha evolução no curso de JS do Guanabara
 __Quando comecei no curso de JavaScript vi umas coisas que eu nunca havia visto.__
 __Foi num processo de aprendizado que eu soube distinguir cada coisa e cada parte do código, e é com essas anotações do meu desenvolvimento que irei explicar para mim mesmo com as minhas palavras sobre o assunto.__
 
-**HTML:**
+**HTML 5:**
 
-"<head> </head>"
+`<head> </head>`
 
 ===>> A "cabeça" do código HTML é onde fica a configuração.
 
