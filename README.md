@@ -3,19 +3,19 @@ Aqui mostrarei a minha evolução no curso de JS do Guanabara
 
 **Anotações de HTML, CSS e JavaScript**
 
-_Quando comecei no curso de JavaScript vi umas coisas que eu nunca havia visto._
-_Foi num processo de aprendizado que eu soube distinguir cada coisa e cada parte do código, e é com essas anotações do meu desenvolvimento que irei explicar para mim mesmo com as minhas palavras sobre o assunto._
+>Quando comecei no curso de JavaScript vi umas coisas que eu nunca havia visto.
+>Foi num processo de aprendizado que eu soube distinguir cada coisa e cada parte do código, e é com essas anotações do meu desenvolvimento que irei explicar para mim >mesmo com as minhas palavras sobre o assunto.
 
 **HTML 5:**
 
 `<head> </head>`
 
-A "cabeça" do código HTML é onde fica a configuração.
+* A "cabeça" do código HTML é onde fica a configuração.
 
 
 `<body> </body>`
 
-O "corpo" é onde fica o conteúdo.
+* O "corpo" é onde fica o conteúdo.
 
 
 **************************************************************
