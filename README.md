@@ -23,22 +23,29 @@ Aqui mostrarei a minha evolução no curso de JS do Guanabara
 
 
 **************************************************************
-*JavaScript:*
+*JAVASCRIPT*
 
 `<script> </script>`
 
 * Tudo que estiver dentro dessa tag faz parte do JavaScript.
+
+`typeof`(ou simplesmente "Tipo de"): pede o tipo do dado.
+
+** EXEMPLO:
+
+`typeof True`: aqui ele pede para identificar o tipo de `True` e
+ele responde com um `"BOOLEAN"`, ou seja, BOOLEANO.
 
 **************************************************************
 *TIPOS PRIMITIVOS*
 
 >Os tipos primitivos no JS são:
 
-* Number: 1, 3.3, 9...;
+* `Number`: 1, 3.3, 9...;
 
-* Boolean: True, False;
+* `Boolean`: True, False;
 
-* String: 'Caio', "Node".
+* `String`: 'Caio', "Node".
 
 ************************************
 
@@ -55,10 +62,5 @@ Para fechar digite o terminal do Node é só digitar `.exit`.
 
 *************************************
 
-`typeof`(ou simplesmente "Tipo de"): pede o tipo do dado.
 
-** EXEMPLO:
-
-`typeof True`: aqui ele pede para identificar o tipo de `True` e
-ele responde com um `"BOOLEAN"`, ou seja, BOOLEANO.
 
