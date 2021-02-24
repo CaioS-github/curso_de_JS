@@ -29,22 +29,29 @@ Aqui mostrarei a minha evolução no curso de JS do Guanabara
 
 * Tudo que estiver dentro dessa tag faz parte do JavaScript.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++
+**************************************************************
 *TIPOS PRIMITIVOS*
 
-Os tipos primitivos no JS são:
+>Os tipos primitivos no JS são:
 
-Number: 1, 3.3, 9...;
+* Number: 1, 3.3, 9...;
 
-Boolean: True, False;
+* Boolean: True, False;
 
-String: 'Caio', "Node", `Javascript`
+* String: 'Caio', "Node".
+
 ************************************
 
 NODEJS:
 
-Dá para abrir o terminal do NodeJs no Visual Studio Code.
+Dá para abrir o terminal do NodeJs no Visual Studio Code fazendo os seguintes passos:
 
+1. Abra o visual Studio Code;
+2. Clique em `Terminal`;
+3. Vá em `New Terminal` e;
+4. No terminal digite `node`.
+
+Para fechar digite o terminal do Node é só digitar `.exit`.
 ALGUNS COMANDOS NO TERMINAL DO NODE:
 
 .exit = fecha o terminal.
