@@ -1,5 +1,5 @@
 # curso_de_JS
-Aqui mostrarei a minha evolução no curso de JavaScript do Guanabara [Clique aqui para ver também](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
+Aqui mostrarei o meu progresso no [curso de JavaScript do Guanabara](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
 
 **Anotações de JavaScript**
 
