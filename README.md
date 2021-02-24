@@ -1,8 +1,7 @@
 # curso_de_JS
 Aqui mostrarei a minha evolução no curso de JS do Guanabara
 
-Anotações de HTML, CSS e JavaScript
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+*Anotações de HTML, CSS e JavaScript*
 
 Quando comecei no curso de JavaScript vi umas coisas que eu nunca havia visto.
 Foi num processo de aprendizado que eu soube distinguir cada coisa e cada parte do código,
