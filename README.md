@@ -13,13 +13,6 @@ Aqui mostrarei a minha evolução no curso de JavaScript do Guanabara [Clique aq
 
 * Tudo que estiver dentro dessa tag faz parte do JavaScript.
 
-`typeof`(ou simplesmente "Tipo de"): pede o tipo do dado.
-
-** EXEMPLO:
-
-`typeof True`: aqui ele pede para identificar o tipo de `True` e
-ele responde com um `"BOOLEAN"`, ou seja, BOOLEANO.
-
 **************************************************************
 *TIPOS PRIMITIVOS*
 
@@ -31,7 +24,7 @@ ele responde com um `"BOOLEAN"`, ou seja, BOOLEANO.
 
 * `String`: 'Caio', "Node".
 
-************************************
+**************************************************************
 
 NODEJS:
 
@@ -44,7 +37,18 @@ Dá para abrir o terminal do NodeJs no Visual Studio Code fazendo os seguintes p
 
 Para fechar digite o terminal do Node é só digitar `.exit`.
 
-*************************************
+
+>Alguns comandos de Node:
+
+`typeof`(ou simplesmente "Tipo de"): pede o tipo do dado.
+
+*EXEMPLO:*
+
+`typeof True`: aqui ele pede para identificar o tipo de `True` e
+ele retorna `"BOOLEAN"`, ou seja, BOOLEANO
+
+
+**************************************************************
 
 
 
