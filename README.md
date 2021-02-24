@@ -11,7 +11,7 @@ com as minhas palavras sobre o assunto.
 
 HTML:
 
-<head> </head>
+"<head> </head>"
 
 ===>> A "cabeça" do código HTML é onde fica a configuração.
 
@@ -40,7 +40,7 @@ Number: 1, 3.3, 9...;
 
 Boolean: True, False;
 
-String: 'Caio', "Node", `Javascript``
+String: 'Caio', "Node", `Javascript`
 ************************************
 
 NODEJS:
@@ -56,4 +56,5 @@ typeof: ou simplesmente "Tipo de", pede o tipo do dado.
 EXEMPLO:
 
 typeof True => Aqui ele pede para identificar o tipo de True e
-ele responde com um BOOLEAN, ou seja, BOOLEANO
+ele responde com um BOOLEAN, ou seja, BOOLEANO.
+
