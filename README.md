@@ -6,7 +6,7 @@ Aqui mostrarei a minha evolução no curso de JS do Guanabara
 __Quando comecei no curso de JavaScript vi umas coisas que eu nunca havia visto.__
 __Foi num processo de aprendizado que eu soube distinguir cada coisa e cada parte do código, e é com essas anotações do meu desenvolvimento que irei explicar para mim mesmo com as minhas palavras sobre o assunto.__
 
-HTML:
+**HTML:**
 
 "<head> </head>"
 
@@ -18,11 +18,12 @@ HTML:
 ===>> O "corpo" é onde fica o conteúdo.
 
 
-************************************
-CSS:
+**************************************************************
+**CSS:**
 
-************************************
-JavaScript:
+
+**************************************************************
+**JavaScript:**
 
 <script> </script>
 
