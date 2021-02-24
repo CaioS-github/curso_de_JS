@@ -11,7 +11,7 @@ com as minhas palavras sobre o assunto.
 
 HTML:
 
-"<head> </head>"
+<head> </head>
 
 ===>> A "cabeça" do código HTML é onde fica a configuração.
 
