@@ -8,14 +8,12 @@ _Foi num processo de aprendizado que eu soube distinguir cada coisa e cada parte
 
 **HTML 5:**
 
-`<head>
-</head>`
+`<head> </head>`
 
 A "cabeça" do código HTML é onde fica a configuração.
 
 
-`<body>
-</body>`
+`<body> </body>`
 
 O "corpo" é onde fica o conteúdo.
 
@@ -27,8 +25,7 @@ O "corpo" é onde fica o conteúdo.
 **************************************************************
 *JavaScript:*
 
-`<script>
-</script>`
+`<script> </script>`
 
 * Tudo que estiver dentro dessa tag faz parte do JavaScript.
 
