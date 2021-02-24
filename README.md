@@ -52,14 +52,13 @@ Dá para abrir o terminal do NodeJs no Visual Studio Code fazendo os seguintes p
 4. No terminal digite `node`.
 
 Para fechar digite o terminal do Node é só digitar `.exit`.
-ALGUNS COMANDOS NO TERMINAL DO NODE:
 
-.exit = fecha o terminal.
-............................................................................................
-typeof: ou simplesmente "Tipo de", pede o tipo do dado.
+*************************************
 
-EXEMPLO:
+`typeof`(ou simplesmente "Tipo de"): pede o tipo do dado.
 
-typeof True => Aqui ele pede para identificar o tipo de True e
-ele responde com um BOOLEAN, ou seja, BOOLEANO.
+** EXEMPLO:
+
+`typeof True`: aqui ele pede para identificar o tipo de `True` e
+ele responde com um `"BOOLEAN"`, ou seja, BOOLEANO.
 
