@@ -14,8 +14,15 @@ Aqui mostrarei o meu progresso no [curso de JavaScript do Guanabara](https://www
 * Tudo que estiver dentro dessa tag faz parte do JavaScript.
 
 *Comandos básicos*
+`Let` ou `var`: declara uma variável;
+`window prompt`: dispara uma janela para receber algo numa caixa de diálogo;
+`//`: serve para comentar apenas em uma linha;
+`/*`(O comentário)`*/`: serve para comentar em mais linhas;
+`Number` + o valor recebido entre parênteses`()` => `Number(n)` ou `N.toNumber()`, por exemplo: conversão de string para número;
+`String()` ou `n.toString()`: o n é apenas a variável que você declara: Da mesmo forma isso acontece de número para string;
+`${}`:é um template trazido pelo ECMAScript. Colocando a variável declarada dentro das chaves faz uma formatação dentro do conjunto de Strings;
 
-``
+
 **************************************************************
 *TIPOS PRIMITIVOS*
 
