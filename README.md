@@ -13,17 +13,21 @@ Aqui mostrarei o meu progresso no [curso de JavaScript do Guanabara](https://www
 
 * Tudo que estiver dentro dessa tag faz parte do JavaScript.
 
+*Comandos básicos*
+
+``
 **************************************************************
 *TIPOS PRIMITIVOS*
 
 >Os tipos primitivos no JS são:
 
-* `Number`: 1, 3.3, 9...;
+* `Number`: 1, 3.3, 9...; 
 
 * `Boolean`: True, False;
 
 * `String`: 'Caio', "Node".
 
+>`number` abrange números inteiros e números reais.
 **************************************************************
 
 NODEJS:
