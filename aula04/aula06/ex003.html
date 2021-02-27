@@ -20,9 +20,10 @@
     <h1>Olá, mundo!</h1>
     <p>É... eu consegui chegar aqui.</p>
     <script>
-        var n1 = number.parseInt(window.prompt('Digite um número: '))
-        var n2 = number.parseInt(window.prompt('Digite outro número: '))
+        var n1 = Number(window.prompt('Digite um número: '))
+        var n2 = Number(window.prompt('Digite outro número: '))
         var s = n1 + n2
+        window.prompt(s.toNumber())
         window.alert('A soma dos números digitados é: ' + s)
     </script>
 </body>
