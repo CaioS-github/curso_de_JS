@@ -21,6 +21,7 @@ Aqui mostrarei o meu progresso no [curso de JavaScript do Guanabara](https://www
 * `Number` + o valor recebido entre parênteses`()` => `Number(n)` ou `N.toNumber()`, por exemplo: conversão de string para número;
 * `String()` ou `n.toString()`: o n é apenas a variável que você declara: Da mesmo forma isso acontece de número para string;
 * `${}`:é um template String trazido pelo ECMAScript. Colocando a variável declarada dentro das chaves faz uma formatação dentro do conjunto de Strings;
+*** OBS: cuidado quando for escrever porque a crase é diferente de áspas simples e áspas normais, e áspas simples e normais não aceitam o comando.
 * `.length`: serve para contar a quantidade de strings;
 * `.toUpperCase()`: é usado para colocar todas as strings para maiúsculo;
 * `.toLowerCase()`: neste comando é usado para colocar tudo para minúsculas;
