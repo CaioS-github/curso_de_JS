@@ -4,17 +4,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Caio</title>
     <style>
+        body
+        {
+        font: normal 20pt arial;
 
-        font: 20pt arial; 
-
+        }
     </style>
 </head>
 <body>
-    
-    <script>
 
+    <script>
+        var nome = window.prompt('Qual o seu nome?')
+        document.write(`Olá, ${nome}. Prazer em te conhecer.</br>`)
+        document.write(`Seu nome em maiúsculo é ${nome.toUpperCase()}</br>`)
+        document.write(`Seu nome em minúscula é: ${nome.toLowerCase()}</br>`)
+        document.write(`A quantidade de letras no seu nome é de: ${nome.length}`)
     </script>
 </body>
 </html>
